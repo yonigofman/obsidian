@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Task Scheduling/crontab.md",
+                "file": "Linux/permissions/umask.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Task Scheduling/crontab.md",
+                "file": "Linux/permissions/umask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Task Scheduling/crontab.md",
+                "file": "Linux/permissions/umask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Task Scheduling/crontab.md"
+                "file": "Linux/permissions/umask.md"
               }
             }
           }
@@ -243,17 +243,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3219bbe5bb59ba4",
+  "active": "4e369f03559e22b5",
   "lastOpenFiles": [
+    "Linux/permissions/File Permissions.md",
+    "Linux/permissions/umask.md",
+    "Linux/permissions/getfacl & setfacl.md",
+    "Linux/Task Scheduling/crontab.md",
     "Linux/Advanced Commands.md",
     "Linux/fdisk.md",
     "Linux/Services/service-configuration.md",
     "Linux/Services/systemctl.md",
-    "Linux/permissions/File Permissions.md",
     "Linux/bash scripting.md",
-    "Linux/Task Scheduling/crontab.md",
     "Linux/Process & Job Managment.md",
-    "Linux/permissions/getfacl & setfacl.md",
     "Linux/SCP & WinSCP.md",
     "Linux/bash scripting",
     "Linux/visudo - sudoers file.md",
