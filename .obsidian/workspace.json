@@ -4,119 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "4dae4f29585b177d",
+        "id": "1afa821f79a7f834",
         "type": "tabs",
         "children": [
           {
-            "id": "62bf4bb40a6948a9",
+            "id": "d89760b96b795a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SCP & WinSCP.md",
+                "file": "Docker/Networking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1e4832fc921d763",
+            "id": "fd13f266ed581e9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/visudo - sudoers file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bdeecdbd5428db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/fdisk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "232be8a333681983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/visudo - sudoers file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e75eefce4285183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/permissions/File Permissions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33f33a07b4264236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/SCP & WinSCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "508b059d146546a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Task Scheduling/crontab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23a6c89eb376b30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Process & Job Managment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e369f03559e22b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/permissions/umask.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/permissions/umask.md",
+                "file": "Docker/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/permissions/umask.md",
+                "file": "Docker/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/permissions/umask.md"
+                "file": "Docker/Networking.md"
               }
             }
           }
@@ -243,21 +154,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e369f03559e22b5",
+  "active": "d89760b96b795a80",
   "lastOpenFiles": [
+    "Docker/Spring + PostgreSQL.md",
+    "Docker/Spring Java (Maven) container.md",
+    "Docker/PostgreSQL container.md",
+    "Docker/Networking.md",
+    "Linux/Advanced Commands.md",
+    "Linux/bash scripting.md",
+    "SQL/DDL.md",
+    "Docker/Volumes.md",
+    "Web/backend architecture.md",
+    "Git/tutorial.md",
+    "SQL/DML.md",
+    "Docker/Untitled",
+    "SQL",
+    "s.md",
+    "Docker",
+    "Linux/fdisk.md",
+    "Linux/Process & Job Managment.md",
+    "Linux/Task Scheduling/crontab.md",
+    "Linux/SCP & WinSCP.md",
     "Linux/permissions/File Permissions.md",
+    "Linux/visudo - sudoers file.md",
+    "Git",
+    "Web",
     "Linux/permissions/umask.md",
     "Linux/permissions/getfacl & setfacl.md",
-    "Linux/Task Scheduling/crontab.md",
-    "Linux/Advanced Commands.md",
-    "Linux/fdisk.md",
     "Linux/Services/service-configuration.md",
     "Linux/Services/systemctl.md",
-    "Linux/bash scripting.md",
-    "Linux/Process & Job Managment.md",
-    "Linux/SCP & WinSCP.md",
     "Linux/bash scripting",
-    "Linux/visudo - sudoers file.md",
     "Untitled.canvas",
     "Linux/Task Scheduling",
     "Linux/permissions",
