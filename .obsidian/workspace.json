@@ -20,6 +20,66 @@
             }
           },
           {
+            "id": "043dd949d65cec0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VUE/Docker/Dockerfile - Multistage JAR Example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90bee8d2c53e1263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VUE/CI-CD/keywords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78f8e9647eac224b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VUE/Docker/creating mongodb container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62d5ba5b4d16c08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VUE/CICD + Docker + Mongo + JAR + NGNIX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03f73a5c0d8f29a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VUE/CICD + Docker + Mongo + JAR + NGNIX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fd13f266ed581e9e",
             "type": "leaf",
             "state": {
@@ -27,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Networking.md",
+                "file": "VUE/CICD + Docker + Mongo + JAR + NGNIX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Networking.md",
+                "file": "VUE/CICD + Docker + Mongo + JAR + NGNIX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Networking.md"
+                "file": "VUE/CICD + Docker + Mongo + JAR + NGNIX.md"
               }
             }
           }
@@ -154,12 +215,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d89760b96b795a80",
+  "active": "e3219bbe5bb59ba4",
   "lastOpenFiles": [
+    "VUE/Summary.docx",
+    "Summary.docx",
+    "VUE/Docker/Dockerfile - Multistage JAR Example.md",
+    "VUE/Docker/creating mongodb container.md",
+    "VUE/CI-CD/keywords.md",
+    "VUE/Kubernetes CICD with Persistent Volumes and Deployment on Windows.md",
+    "VUE/CICD + Docker + Mongo + JAR + NGNIX.md",
+    "Summary.md",
+    "K8S",
+    "VUE/Docker",
+    "Docker/Networking.md",
+    "VUE/CI-CD",
+    "VUE",
     "Docker/Spring + PostgreSQL.md",
     "Docker/Spring Java (Maven) container.md",
     "Docker/PostgreSQL container.md",
-    "Docker/Networking.md",
     "Linux/Advanced Commands.md",
     "Linux/bash scripting.md",
     "SQL/DDL.md",
@@ -180,17 +253,6 @@
     "Git",
     "Web",
     "Linux/permissions/umask.md",
-    "Linux/permissions/getfacl & setfacl.md",
-    "Linux/Services/service-configuration.md",
-    "Linux/Services/systemctl.md",
-    "Linux/bash scripting",
-    "Untitled.canvas",
-    "Linux/Task Scheduling",
-    "Linux/permissions",
-    "Linux/services.md",
-    "Linux/Services",
-    "permissions.md",
-    "Welcome.md",
-    "Linux"
+    "Untitled.canvas"
   ]
 }
