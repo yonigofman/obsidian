@@ -86,9 +86,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1c4dbb328596d6b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -215,8 +225,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3219bbe5bb59ba4",
+  "active": "1c4dbb328596d6b4",
   "lastOpenFiles": [
+    "doc/Deployments vs StatefulSet.md",
+    "doc/Deployments vs StatefullSet.md",
+    "doc/s.md",
+    "doc/PV PVC CS.md",
+    "doc/MongoDB StatefulSet StorageClass.md",
+    "doc/mongo.md",
+    "doc",
     "VUE/Summary.docx",
     "Summary.docx",
     "VUE/Docker/Dockerfile - Multistage JAR Example.md",
@@ -246,13 +263,6 @@
     "Docker",
     "Linux/fdisk.md",
     "Linux/Process & Job Managment.md",
-    "Linux/Task Scheduling/crontab.md",
-    "Linux/SCP & WinSCP.md",
-    "Linux/permissions/File Permissions.md",
-    "Linux/visudo - sudoers file.md",
-    "Git",
-    "Web",
-    "Linux/permissions/umask.md",
     "Untitled.canvas"
   ]
 }
